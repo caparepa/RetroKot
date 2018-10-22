@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "username": "plangosh",
+      "email": "joanne.pacocha@yahoo.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 1,
+        "full_name": "Nella Blick",
+        "birthdate": "1983-02-11",
+        "user_id": 1
+      }
+    },
+    {
+      "id": 2,
+      "username": "pwest",
+      "email": "hheller@yahoo.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 2,
+        "full_name": "Brad Lowe DVM",
+        "birthdate": "1995-01-16",
+        "user_id": 2
+      }
+    },
+    {
+      "id": 3,
+      "username": "keon78",
+      "email": "hayes.colby@klein.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 3,
+        "full_name": "Mr. Abdullah Nader",
+        "birthdate": "1986-09-03",
+        "user_id": 3
+      }
+    },
+    {
+      "id": 4,
+      "username": "bridgette59",
+      "email": "stromp@durgan.net",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 4,
+        "full_name": "Bridgette Lowe",
+        "birthdate": "1991-01-16",
+        "user_id": 4
+      }
+    },
+    {
+      "id": 5,
+      "username": "dockkilback",
+      "email": "anibal.weber@hodkiewicz.net",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 5,
+        "full_name": "Garnett Rath",
+        "birthdate": "2006-12-04",
+        "user_id": 5
+      }
+    },
+    {
+      "id": 6,
+      "username": "fredrick50",
+      "email": "bspinka@hotmail.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 6,
+        "full_name": "Rosemary Kuphal",
+        "birthdate": "2001-12-14",
+        "user_id": 6
+      }
+    },
+    {
+      "id": 7,
+      "username": "ziemesaul",
+      "email": "heller.sylvester@yahoo.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 7,
+        "full_name": "Terrance Cole",
+        "birthdate": "1981-07-13",
+        "user_id": 7
+      }
+    },
+    {
+      "id": 8,
+      "username": "jesse38",
+      "email": "miller.cornell@gmail.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 8,
+        "full_name": "Dr. Electa Hills MD",
+        "birthdate": "2016-03-11",
+        "user_id": 8
+      }
+    },
+    {
+      "id": 9,
+      "username": "jazmin60",
+      "email": "ward.gene@gmail.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 9,
+        "full_name": "Grant Beier",
+        "birthdate": "2005-09-16",
+        "user_id": 9
+      }
+    },
+    {
+      "id": 10,
+      "username": "maggiocallie",
+      "email": "broberts@franecki.com",
+      "status": null,
+      "last_login": null,
+      "profile": {
+        "id": 10,
+        "full_name": "Dr. Elinore Collins II",
+        "birthdate": "2003-09-19",
+        "user_id": 10
+      }
+    }
+  ],
+  "links": {
+    "first": "http://192.168.100.10:8089/api/v1/users?page=1",
+    "last": "http://192.168.100.10:8089/api/v1/users?page=3",
+    "prev": null,
+    "next": "http://192.168.100.10:8089/api/v1/users?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 3,
+    "path": "http://192.168.100.10:8089/api/v1/users",
+    "per_page": 10,
+    "to": 10,
+    "total": 21
+  },
+  "status": "success",
+  "code": 200
+}
